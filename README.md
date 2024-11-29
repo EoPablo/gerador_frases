@@ -1,16 +1,17 @@
 ## Gerador de Frases | Curso FullStack Pro - Sujeito Programador
 
-![screencapture-eopablo-github-io-gerador-frases-2024-11-14-13_58_55](https://github.com/user-attachments/assets/9b9f331b-2b02-4406-aea6-d7f99fada494)
+![screencapture-127-0-0-1-5173-2024-11-28-22_43_20](https://github.com/user-attachments/assets/c64d7a3e-b979-4a8c-a3b2-908237b894b0)
 
-![screencapture-eopablo-github-io-gerador-frases-2024-11-14-13_59_10](https://github.com/user-attachments/assets/4509ed52-b1fa-47af-a88a-0c3eb2283629)
+![devcurrency_cel](https://github.com/user-attachments/assets/1da1d886-9f1f-4031-92b5-dece5af87a8b)
 
-Gerador de Frases, desenvolvido utilizando HTML, CSS , Reactjs e Typescript.
-Onde o usuário tem a opção de escolher a categoria da frase que deseja, e após isso a frase é gerada.
+Projeto de criptomoedas desenvolvido com HTML, CSS , Reactjs, Typescript e Vite onde temos a integração à API externa da CoinCap, garantindo acesso a dados atualizados e precisos em tempo real. O sistema conta com paginação eficiente, implementada por meio do React Router DOM, proporcionando uma navegação fluida e organizada para os usuários.
 
 ## Skills Utilizadas:
-- Praticamos o map, onde percorremos uma lista e renderizamos alguma coisa na tela do usuário ;
-- Uso do useState, onde deixamos a aplicação dinâmica;
+- Formatação compacta, onde pegamos um valor grande e deixamos ele compacto, mas bonito para se ler ;
+- Uso React Router DOM, onde deixamos a aplicação dinâmica;
 - Renderização condicional, para exibir algo baseado em uma certa condição;
+- Responsividade;
+- Utilização de API.
 
 ## Tecnologias utilizadas:
 ![image](https://github.com/user-attachments/assets/41cba1c1-fdda-4b11-9094-aedd6308cb95)
